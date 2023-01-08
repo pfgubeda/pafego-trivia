@@ -1,0 +1,7 @@
+{
+  "name": "pafego-trivia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
